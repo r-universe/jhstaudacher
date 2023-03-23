@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "CoopGame"]
+	path = CoopGame
+	url = https://github.com/cran/CoopGame
+	shallow = true
+	registered = true
+[submodule "EvolutionaryGames"]
+	path = EvolutionaryGames
+	url = https://github.com/cran/EvolutionaryGames
+	shallow = true
+	registered = true
+[submodule "rSRD"]
+	path = rSRD
+	url = https://github.com/cran/rSRD
+	shallow = true
+	registered = true
